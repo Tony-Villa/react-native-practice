@@ -148,4 +148,4 @@ const COLORS = [
   { colorName: 'YellowGreen', hexCode: '#9ACD' },
 ];
 
-module.exports = { COLORS };
+module.exports = COLORS;
